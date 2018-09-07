@@ -1,0 +1,1 @@
+use adapted quick union algorithm,when union two elements,find their root,change the smaller one's root to the bigger one.Then,implement find function just returning the root of tree which the parameter is belonged to.
